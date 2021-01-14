@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 ﻿{"cameraMode":{"drawMode":0,"name":"Shaded","section":"Shading Mode"},"sceneLighting":true,"audioPlay":false,"sceneViewState":{"showFog":true,"showMaterialUpdate":false,"showSkybox":true,"showFlares":true,"showImageEffects":true,"showParticleSystems":true},"in2DMode":true,"pivot":{"x":-0.17540784180164338,"y":2.787668228149414,"z":-0.16571886837482453},"rotation":{"x":0.0,"y":0.0,"z":0.0,"w":1.0},"size":13.125536918640137,"orthographic":true}
+=======
+﻿{"cameraMode":{"drawMode":0,"name":"Shaded","section":"Shading Mode"},"sceneLighting":true,"audioPlay":false,"sceneViewState":{"showFog":true,"showMaterialUpdate":false,"showSkybox":true,"showFlares":true,"showImageEffects":true,"showParticleSystems":true},"in2DMode":true,"pivot":{"x":-1.9486582279205323,"y":-0.6788612604141235,"z":-0.13400235772132874},"rotation":{"x":0.0,"y":0.0,"z":0.0,"w":1.0},"size":15.301132202148438,"orthographic":true}
+>>>>>>> parent of 877bd36... Initial set up of player
